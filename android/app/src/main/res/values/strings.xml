@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PeopleForever BBS</string>
+    <string name="title_activity_main">PeopleForever BBS</string>
+    <string name="package_name">cn.peopleforever.bbs</string>
+    <string name="custom_url_scheme">cn.peopleforever.bbs</string>
+</resources>

@@ -1,0 +1,15 @@
+{
+  "appId": "cn.peopleforever.bbs",
+  "appName": "PeopleForever BBS",
+  "webDir": "www",
+  "server": {
+    "url": "https://bbs.peopleforever.cn",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
