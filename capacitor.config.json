@@ -1,6 +1,6 @@
 {
   "appId": "cn.peopleforever.bbs",
-  "appName": "PeopleForever BBS",
+  "appName": "PF BBS",
   "webDir": "www",
   "server": {
     "url": "https://bbs.peopleforever.cn",

@@ -10,7 +10,12 @@
   "type": "commonjs",
   "dependencies": {
     "@capacitor/android": "^8.5.2",
+    "@capacitor/assets": "^3.0.5",
     "@capacitor/cli": "^8.5.2",
-    "@capacitor/core": "^8.5.2"
+    "@capacitor/core": "^8.5.2",
+    "sharp": "^0.35.5"
+  },
+  "allowScripts": {
+    "sharp@0.32.6": true
   }
 }
